@@ -1,0 +1,2 @@
+# quantumultx
+quantumultx rules
